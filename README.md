@@ -1,6 +1,6 @@
-### Hey there 👋, My name is Sneha Kotta and I’m currently pursuing bachelor of technology in computer Science and Engineering domain at CMR TECHNICAL CAMPUS
-
-  I'm interested in ui/ux designing and web development as well.
+### Hey there 👋, My name is Sneha Kotta.
+I’m currently pursuing bachelor of technology in computer Science and Engineering domain at CMR TECHNICAL CAMPUS
+I'm interested in ui/ux designing and web development as well.
   
 
 <!--
